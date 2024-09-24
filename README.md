@@ -1,25 +1,27 @@
-# AI-Powered-Debate-Fact-Checker
-AI-Powered Debate Fact-Checker powered by groq + llama 3.1 70b
-
-# AI-Powered Debate Fact-Checker
-
 <p align="center">
-  <img src="path/to/logo.png" alt="AI-Powered Debate Fact-Checker Logo" width="200"/>
+  <img src="assets/logo.png" alt="AI-Powered Debate Fact-Checker Logo" width="200"/>
 </p>
 <h1 align="center">AI-Powered Debate Fact-Checker</h1>
 <p align="center">
   <strong>🎙️ Real-time fact-checking for live debates</strong>
 </p>
 <p align="center">
+  <a href="https://github.com/yourusername/ai-debate-fact-checker/actions"><img src="https://img.shields.io/github/workflow/status/yourusername/ai-debate-fact-checker/CI" alt="Build Status"></a>
+  <a href="https://github.com/yourusername/ai-debate-fact-checker/releases"><img src="https://img.shields.io/github/v/release/yourusername/ai-debate-fact-checker.svg" alt="Release"></a>
+  <a href="https://github.com/yourusername/ai-debate-fact-checker/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+</p>
+<p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#demo">Demo</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#how-it-works">How It Works</a> •
+  <a href="#configuration">Configuration</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#faq">FAQ</a> •
   <a href="#technologies-used">Technologies</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
-
-## 🎙️ Real-time fact-checking for live debates
 
 The AI-Powered Debate Fact-Checker is a cutting-edge tool designed to enhance the quality and accuracy of public discourse. By leveraging advanced AI and NLP technologies, this application provides real-time fact-checking, sentiment analysis, and topic tracking for live debates.
 
