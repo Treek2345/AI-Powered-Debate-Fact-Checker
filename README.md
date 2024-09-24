@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="AI-Powered Debate Fact-Checker Logo" width="200"/>
+  <img src="logo.png" alt="AI-Powered Debate Fact-Checker Logo" width="200"/>
 </p>
 <h1 align="center">AI-Powered Debate Fact-Checker</h1>
 <p align="center">
