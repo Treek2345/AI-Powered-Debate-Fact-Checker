@@ -3,7 +3,21 @@ AI-Powered Debate Fact-Checker powered by groq + llama 3.1 70b
 
 # AI-Powered Debate Fact-Checker
 
-![Debate Fact-Checker Logo](https://via.placeholder.com/150?text=Debate+Fact-Checker)
+<p align="center">
+  <img src="path/to/logo.png" alt="AI-Powered Debate Fact-Checker Logo" width="200"/>
+</p>
+<h1 align="center">AI-Powered Debate Fact-Checker</h1>
+<p align="center">
+  <strong>🎙️ Real-time fact-checking for live debates</strong>
+</p>
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#how-it-works">How It Works</a> •
+  <a href="#technologies-used">Technologies</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
 ## 🎙️ Real-time fact-checking for live debates
 
